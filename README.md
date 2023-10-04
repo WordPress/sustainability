@@ -8,6 +8,6 @@ This is the repository for the [WordPress Sustainability Handbook](https://make.
 - **Meeting Schedule** is published at [make.wordpress.org/meetings](https://make.wordpress.org/meetings/#sustainability).
 - **Contribute:** Additions and changes to the Sustainability Handbook happen in this GitHub repo.
 
-## Sustainabability Roadmap
+## Sustainability Roadmap
 
 - **Roadmap:** Here you can find [the Roadmap of the WordPress Sustainability Team](https://github.com/orgs/WordPress/projects/134/views/1).
