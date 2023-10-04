@@ -10,4 +10,4 @@ This is the repository for the [WordPress Sustainability Handbook](https://make.
 
 ## Sustainability Roadmap
 
-- **Roadmap:** Here you can find [the Roadmap of the WordPress Sustainability Team](https://github.com/orgs/WordPress/projects/134/views/1).
+- **Roadmap:** Here you can find [the roadmap of the WordPress Sustainability Team [draft]](https://github.com/orgs/WordPress/projects/134/views/1).
