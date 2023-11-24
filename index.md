@@ -1,3 +1,3 @@
 # Sustainability Handbook
 
-Welcome to the [WordPress Sustainability Handbook](https://make.wordpress.org/sustainability/handbook/)! Use the "Contents" menu on the left to navigate topics.
+Welcome to the WordPress Sustainability Handbook! We are working on the content and we hope to set it up here soon.
