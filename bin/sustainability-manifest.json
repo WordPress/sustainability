@@ -5,5 +5,12 @@
     "markdown_source": "https:\/\/github.com\/wordpress\/sustainability\/blob\/trunk\/index.md",
     "parent": null,
     "order": -1
+  },
+  "events": {
+    "title": "Events",
+    "slug": "events",
+    "markdown_source": "https:\/\/github.com\/wordpress\/sustainability\/blob\/trunk\/events.md",
+    "parent": null,
+    "order": 1
   }
 }
