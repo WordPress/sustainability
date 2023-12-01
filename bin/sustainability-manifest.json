@@ -6,11 +6,18 @@
     "parent": null,
     "order": -1
   },
+  "contribute": {
+    "title": "How to contribute",
+    "slug": "contribute",
+    "markdown_source": "https:\/\/github.com\/wordpress\/sustainability\/blob\/trunk\/contribute.md",
+    "parent": null,
+    "order": 1
+  },
   "events": {
-    "title": "Events",
+    "title": "Sustainable events",
     "slug": "events",
     "markdown_source": "https:\/\/github.com\/wordpress\/sustainability\/blob\/trunk\/events.md",
     "parent": null,
-    "order": 1
+    "order": 2
   }
 }
