@@ -2,7 +2,7 @@
 
 Hi there! We’re so glad you’ve decided to join the WordPress Sustainability Team.
 
-We are a very young team, founded at WCEU 2023, so we are eager to welcome new members to help us make the WordPress Project into a leader in sustainability. There are so many ways to contribute!
+We are a very young team, founded at WCEU 2023, so we are eager to welcome new members to help us make the WordPress Project a leader in sustainability. There are so many ways to contribute!
 
 Please take a moment to read this onboarding introduction in order to understand how you can start contributing to the team.
 
@@ -11,7 +11,11 @@ Please take a moment to read this onboarding introduction in order to understand
 
 ### Sustainability Team Slack channel
 
-We meet every Friday at 12:00 UTC in the [#sustainability Slack channel](https://wordpress.slack.com/archives/sustainability/). Come join us either at that time or async! 
+Come join us at the [#sustainability Slack channel](https://wordpress.slack.com/archives/sustainability/). 
+
+### Sustainability Team Slack channel
+
+We meet almost every Friday at 12:00 UTC in the [#sustainability Slack channel](https://wordpress.slack.com/archives/sustainability/). Please check the [#Make WordPress Meeting Agenda](https://make.wordpress.org/meetings/) for the right dates. 
 
 ### Sustainability Team blog
 
