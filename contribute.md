@@ -13,8 +13,6 @@ Please take a moment to read this onboarding introduction in order to understand
 
 Come join us at the [#sustainability Slack channel](https://wordpress.slack.com/archives/sustainability/). 
 
-### Sustainability Team Slack channel
-
 We meet almost every Friday at 12:00 UTC in the [#sustainability Slack channel](https://wordpress.slack.com/archives/sustainability/). Please check the [#Make WordPress Meeting Agenda](https://make.wordpress.org/meetings/) for the right dates. 
 
 ### Sustainability Team blog
