@@ -30,7 +30,7 @@ The Sustainability Team Representatives [elected](https://make.wordpress.org/sus
 - Csaba ([@littlebigthing](https://profiles.wordpress.org/littlebigthing/) on WordPress.org, @Csaba on Slack)
 - Nahuai Badiola ([@nahuai](https://profiles.wordpress.org/nahuai/) on WordPress.org, @Nahuai Badiola on Slack)
 - Nora Ferreirós ([@noradriana](https://profiles.wordpress.org/noradriana/) on WordPress.org, @Nora Ferreirós on Slack)
-- Thijs Buijs ([@yellowlime](https://profiles.wordpress.org/yellowlime/ on WordPress.org, @Thijs Buijs on Slack)
+- Thijs Buijs ([@yellowlime](https://profiles.wordpress.org/yellowlime/) on WordPress.org, @Thijs Buijs on Slack)
 
 
 ## Our (short) History
