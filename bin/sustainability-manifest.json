@@ -13,4 +13,11 @@
     "parent": null,
     "order": 1
   }
+  "about": {
+    "title": "About the team",
+    "slug": "about",
+    "markdown_source": "https:\/\/github.com\/wordpress\/sustainability\/blob\/trunk\/about.md",
+    "parent": null,
+    "order": 1
+  }
 }
