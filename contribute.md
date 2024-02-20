@@ -79,4 +79,4 @@ If you’re not used to working with GitHub and you have access to our GitHub re
 
 We share a common goal: ensuring WordPress project longevity. Why? Because we love WordPress, both the software and its community. 
 
-So enjoy the process of working together and keep in mind our [Code of Conduct](https://learn.wordpress.org/online-workshops/code-of-conduct/). Be friendly, helpful, and disagree in a productive way. :) 
+So enjoy the process of working together and keep in mind our [Code of Conduct](https://make.wordpress.org/handbook/community-code-of-conduct/). Be friendly, helpful, and disagree in a productive way. :) 
