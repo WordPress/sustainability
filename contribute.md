@@ -49,7 +49,7 @@ Once you are in, find the #Sustainability Channel and say hi!
 
 ### 3. Github account and access
 
-In the Sustainability Team, we use GitHub to track the track our ongoing projects. 
+In the Sustainability Team, we use GitHub to track our ongoing projects. 
 
 If you don’t have a GitHub account yet, you can sign up for one here: [Join GitHub](https://github.com/join). 
 
