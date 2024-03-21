@@ -6,7 +6,7 @@ To avoid getting issues stuck waiting for approval, the Sustainability Team has 
 1. **Make a change or a proposal.** It may be minor contributions like a Github Pull Request or the structure of a documents, for example. Check more examples below.
 2. **Announce it in the [team meeting](https://wordpress.slack.com/archives/sustainability/).** It is important to make it easy for everyone to be aware and have the opportunity of leave their opinion. For that purpose:
     - **Ask for a topic to be included in the next meeting** (if not related to an existing one) so that you can announce your contribution, explain it and ask for feedback
-    - **Use Github or P2** (ask the Team Reps in this case) to have a place, if there is not already one, for contributors to give feedback in an accessible and lasting way.
+    - **Use GitHub or P2** (ask the Team Reps in this case) to have a place, if there is not already one, for contributors to give feedback in an accessible and lasting way.
 3. **Establish a deadline.** Ideally, it’d be two weeks from the moment you share your contribution at the team meeting. During this time, contributors will have time to leave their comments and discuss about your contribution.
 4. **Move forward.** You can go ahead with your contribution in two ways:
     - **Flow with the feedback.** Depending on the type of proposal you have made, the discussion can lead the thing to a different solution or even to refuse your suggestion, to name a few possible scenarios. Forget or reschedule depending on the case.
@@ -20,8 +20,8 @@ Here are some examples:
 
 - Changing a title or the wording in a document, like the Handbook or any team documentation.
 - Creating a structure for a document that the team already agrees to create.
-- Creating new Github issues.
-- Adding or updating content of an existing project in the Github repository.
+- Creating new GitHub issues.
+- Adding or updating content of an existing project in the GitHub repository.
 
 
 👎 **The system is not valid for major changes that significantly affect the team and its operation.**
