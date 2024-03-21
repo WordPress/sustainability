@@ -1,4 +1,4 @@
-# Github & P2 self-approval system
+# GitHub & P2 self-approval system
 To avoid getting issues stuck waiting for approval, the Sustainability Team has established a system whereby each contributor can manage a deadline of minimum 2 weeks for accepting its own changes after public communication. 
 
 ## How does this self-approval system works
