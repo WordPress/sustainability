@@ -1,4 +1,6 @@
-# Achievements in sustainability to date
+# Sustainability Team Achivements
+
+## Achievements in sustainability to date
 
 Here you can find a list of the achievements that have been made in the WordPress project in terms of sustainability so far:
 
