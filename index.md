@@ -4,7 +4,7 @@ Hi there! We’re so glad to welcome you in the WordPress Sustainability Handboo
 
 Please take a moment to watch the video below. This will introduce the Sustainability Team’s mission. It is also the first step in onboarding to the team.
 
-<video src="https://github.com/WordPress/sustainability/assets/146440906/ab520267-a6c4-40aa-a4ef-1c1250962400" />
+https://github.com/WordPress/sustainability/assets/146440906/ab520267-a6c4-40aa-a4ef-1c1250962400
 
 <details>
   <summary>Click here to expand the video transcript.</summary>
