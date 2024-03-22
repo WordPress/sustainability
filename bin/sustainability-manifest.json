@@ -6,18 +6,32 @@
     "parent": null,
     "order": -1
   },
-  "contribute": {
-    "title": "How to contribute",
-    "slug": "contribute",
-    "markdown_source": "https:\/\/github.com\/wordpress\/sustainability\/blob\/trunk\/contribute.md",
-    "parent": null,
-    "order": 1
-  },
   "about": {
     "title": "About the team",
     "slug": "about",
     "markdown_source": "https:\/\/github.com\/wordpress\/sustainability\/blob\/trunk\/about.md",
     "parent": null,
     "order": 1
+  },
+    "contribute": {
+    "title": "How to contribute",
+    "slug": "contribute",
+    "markdown_source": "https:\/\/github.com\/wordpress\/sustainability\/blob\/trunk\/contribute.md",
+    "parent": null,
+    "order": 2
+  },
+    "contribute\/badges": {
+    "title": "Sustainability Team badges",
+    "slug": "badges",
+    "markdown_source": "https:\/\/github.com\/wordpress\/sustainability\/blob\/trunk\/badges.md",
+    "parent": "contribute",
+    "order": 1
+  },
+    "achievements": {
+    "title": "Team achievements",
+    "slug": "achievements",
+    "markdown_source": "https:\/\/github.com\/wordpress\/sustainability\/blob\/trunk\/achievements.md",
+    "parent": null,
+    "order": 3
   }
 }
