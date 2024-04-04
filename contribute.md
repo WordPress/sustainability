@@ -29,10 +29,10 @@ Now that you have an idea of the overall structure of the Sustainability Team, l
 
 ### 1. WordPress.org account
 
-The most important account you’ll use is a WordPress.org account. This account is used to comment on the Sustainaibility Team blog and to create a Slack account (next step).
+The most important account you’ll use is a WordPress.org account. This account is used to comment on the Sustainability Team blog and to create a Slack account (next step).
 
 - Do you already have a WordPress.org account? Then [login here](https://login.wordpress.org) and you are ready for the next step.
-- Don’t have a WordPress.org account yet? Then you can [create one](https://login.wordpress.org/register) by following one of these instructions (kindly created by other WordPress Teams and voluntears, thank you!):
+- Don’t have a WordPress.org account yet? Then you can [create one](https://login.wordpress.org/register) by following one of these instructions (kindly created by other WordPress Teams and volunteers, thank you!):
   - [Video instructions to set up a WordPress.org account](https://learn.wordpress.org/tutorial/set-up-a-wordpress-org-account/)
   - [Step by step written instructions](https://github.com/WordPress/contributor-day-handbook/blob/master/*Start%20Here%20-%20General%20Guides/How%20to%20get%20a%20WordPress.org%20account.md)
  
@@ -42,7 +42,7 @@ After creating your account you will receive a “@chat.wordpress.org” usernam
 
 Our team (and the whole WordPress project) use Slack to communicate in real time.
 
-To join WordPress Slack follow either the video you can find [in this guide](https://make.wordpress.org/chat/) or these [step by step writen instructitions](https://github.com/WordPress/contributor-day-handbook/blob/master/*Start%20Here%20-%20General%20Guides/How%20to%20join%20the%20WordPress.org%20Slack%20instance.md). 
+To join WordPress Slack follow either the video you can find [in this guide](https://make.wordpress.org/chat/) or these [step by step written instructions](https://github.com/WordPress/contributor-day-handbook/blob/master/*Start%20Here%20-%20General%20Guides/How%20to%20join%20the%20WordPress.org%20Slack%20instance.md). 
 
 Once you are in, find the #Sustainability Channel and say hi! 
 
@@ -52,7 +52,7 @@ In the Sustainability Team, we use GitHub to track our ongoing projects.
 
 If you don’t have a GitHub account yet, you can sign up for one here: [Join GitHub](https://github.com/join). 
 
-Once you have set up your account, you can send your WordPress profile URL to the Team Reps (eg via Slack) to ask for an invitation to our [Github repo](https://github.com/WordPress/sustainability).
+Once you have set up your account, you can send your WordPress profile URL to the Team Reps (eg via Slack) to ask for an invitation to our [GitHub repo](https://github.com/WordPress/sustainability).
 
 
 ## How to take the first step
