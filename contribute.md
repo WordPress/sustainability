@@ -21,8 +21,7 @@ You can read our last posts, next Slack meeting agendas and previous Slack meeti
 
 ### Github
 
-We use [GitHub](https://github.com/wordpress/sustainability/) to list and track our projects and share information with other teams. In our [roadmap](https://github.com/orgs/WordPress/projects/134/views/1) and [list of issues](https://github.com/WordPress/sustainability/issues) you can take a look at our ongoing projects.
-
+We use [GitHub](https://github.com/wordpress/sustainability/) to track [admin tasks](https://github.com/WordPress/sustainability/issues?q=is%3Aissue+is%3Aopen+label%3Aadmin), projects and ideas on our [roadmap](https://github.com/orgs/WordPress/projects/134), and [discuss](https://github.com/WordPress/sustainability/discussions) important topics and priorities.
 
 ## What do you need to contribute
 
@@ -63,7 +62,7 @@ Once you have your 3 accounts, follow these steps:
 1. Say hi in our [#sustainability Slack channel](https://wordpress.slack.com/archives/sustainability/). We will be very happy to welcome you! 
 2. Listen and join the discussion in our [Slack weekly meetings](https://wordpress.slack.com/archives/sustainability/) (both sync or async).
 3. Leave your ideas on our posts, chat summaries and next agendas comments in [P2](https://make.wordpress.org/sustainability/). 
-4. Assign yourself to the [Github issues](https://github.com/WordPress/sustainability/issues) or [roadmap projects](https://github.com/orgs/WordPress/projects/134/views/1) you are interested in contributing and start there!
+4. Comment or even assign yourself to [admin tasks](https://github.com/WordPress/sustainability/issues?q=is%3Aissue+is%3Aopen+label%3Aadmin) and [roadmap projects](https://github.com/orgs/WordPress/projects/134) you're interested in contributing to!
 
 
 ## How to contribute to this Sustainability handbook
