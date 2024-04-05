@@ -27,6 +27,13 @@
     "parent": "contribute",
     "order": 1
   },
+    "contribute\/approval-system": {
+    "title": "Github & P2 self-approval system",
+    "slug": "approval-system",
+    "markdown_source": "https:\/\/github.com\/wordpress\/sustainability\/blob\/trunk\/approval-system.md",
+    "parent": "contribute",
+    "order": 2
+  },
     "achievements": {
     "title": "Team achievements",
     "slug": "achievements",
