@@ -11,7 +11,7 @@ To do so, we focus our efforts on the 3 pillars of sustainability:
 
 ## When do we meet
 
-The WordPress Sustainability Team meets almost every Friday at 12:00 UTC in the [#sustainability](https://wordpress.slack.com/archives/sustainability/) on the Make WordPress Slack and everyone is welcome! 
+The WordPress Sustainability Team meets bi-weekly on Friday at 12:00 UTC in the [#sustainability](https://wordpress.slack.com/archives/sustainability/) on the Make WordPress Slack and everyone is welcome! 
 
 Please take a look at the [#Make WordPress Meeting Agenda](https://make.wordpress.org/meetings/) to check for the next date. 
 
