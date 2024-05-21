@@ -7,20 +7,31 @@ assignees: ''
 
 ---
 
-Sustainability Team meetings start at [12:00 UTC bi-weekly on Thursdays](https://make.wordpress.org/meetings/#sustainability). Anyone is welcome to contribute to the meeting by commenting in Slack threads during the meeting and throughout the following days. Meeting notes will be published by the following Tuesday to also incorporate these asynchronous conversations.
-
 Please add agenda items by editing this issue summary or commenting below.
+
+---
 
 _This week’s meeting will be hosted by MEETING_HOST._
 
 Hello everyone. Welcome to the WordPress Sustainability Team Meeting! :calendar: 
 
-## Roll Call! 
-Who’s here today? Comment in a thread here to introduce yourself, include your wordpress.org name, and if you're up to it, what are your weekend plans?
+Sustainability Team meetings start at [12:00 UTC bi-weekly on Thursdays](https://make.wordpress.org/meetings/#sustainability). Anyone is welcome to contribute to the meeting by commenting in Slack threads during the meeting and throughout the following days. Meeting notes will be published by the following Tuesday to also incorporate these asynchronous conversations.
 
-## News and updates 
+### :mega: Roll Call! 
+Who is joining us today? Please say hello, and share a flag or your favorite emoji! Also, please note your WordPress.org profile username as we will use this to record attendees in the notes.
 
-### :two: Looking for feedback
+Feel welcome to introduce yourself briefly and share your region (in the thread) :thread:
+
+If you are attending asynchronously, please still add your details to the thread above :point_up_2: It helps to add (async) after your name to reflect on the timings for meetings and how as a team, we can encourage people from across all time zones to be able to participate.
+
+## :one: News and updates 
+
+### :arrow_right: News and updates
+
+- item 1
+- item 2
+
+### :arrow_right: Looking for feedback
 Proposals and discussions in https://make.wordpress.org/sustainability/ and [GitHub](https://github.com/WordPress/sustainability/discussions/categories/general) (General discussions).
 
 - P2 discussion 1
@@ -29,36 +40,30 @@ Proposals and discussions in https://make.wordpress.org/sustainability/ and [Git
 - GitHub discussion 2 
 
 
-### :three: Other news
+## :two: Come and Contribute
 
-- item 1
-- item 2
-
-
-## Come and Contribute
-
-### :one: Meeting Note Takers
+### :arrow_right: Meeting Note Takers
 
 - MONTH DAY – 
 - MONTH DAY – 
 - MONTH DAY – 
 - MONTH DAY –
 
-### :two: Internal priorities
+### :arrow_right: Internal priorities
 Current [internal priorites](https://github.com/WordPress/sustainability/issues?q=is%3Aissue+is%3Aopen+label%3Aadmin) 
 
 - item 1
 - item 2
 
 
-### :three: Projects
+### :arrow_right: Projects
 [Projects](https://github.com/orgs/WordPress/projects/134) owned or led by Sustainability team members that are actively being worked on.
 
 - Project 1
 - Project 2
 - Project 3
 
-### :four: Contribution Goals and Ideas
+### :arrow_right: Contribution Goals and Ideas
 [Current discussions](https://github.com/WordPress/sustainability/discussions/categories/contribution-goals-and-ideas) around contribution goals and ideas.
 
 - GitHub discussion 1
@@ -66,15 +71,15 @@ Current [internal priorites](https://github.com/WordPress/sustainability/issues?
 - GitHub discussion 3
 
 
-## Contribution Acknowledgement
+## :three: Contribution Acknowledgement
 
 - Badges awarded: 
 - Props: 
 
 
-## Open Discussions
+## :four: Open Discussions
 
-If you have topics you’d like discussed in the meeting, please leave them as a comment on this issue.
+Does anyone have an open discussion topic they’d like to bring to the team?
 
 ---
 
