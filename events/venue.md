@@ -10,7 +10,7 @@ Prioritize venues with sustainability measures already in place, like:
 - Energy efficiency.
 - Recycling facilities.
 - Sustainable certifications.
-- Active involvement in sustainable causes, like those mentioned in the [Inspiration](https://make.wordpress.org/sustainability/handbook/sustainable-events/inspiration/) Section.
+- Active involvement in sustainable causes, like those mentioned [in the Inspiration Section](https://make.wordpress.org/sustainability/handbook/sustainable-events/inspiration/).
 
 Other things that give a venue extra points: 
 
