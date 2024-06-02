@@ -10,4 +10,4 @@ As an event organizer, you're responsible for providing water and coffee, usuall
     - Uses more whole-grain over refined-grain. 
     - Serves food in reusable, recyclable, or compostable items. 
 - If your caterer can’t provide biodegradable or reusable utensils, try to source them yourself. 
-Donate surplus food from the event to local food banks and similar projects. Research your options in advance to understand **who** is the recipient, **what** they can accept, **how** it should be packed and kept, and **when** and by **whom** the food donation will be delivered. 
+- Donate surplus food from the event to local food banks and similar projects. Research your options in advance to understand **who** is the recipient, **what** they can accept, **how** it should be packed and kept, and **when** and by **whom** the food donation will be delivered. 
