@@ -1,6 +1,6 @@
 # Traveling
 
-After you’ve selected a venue, it’s time to share information with attendees and sponsors.
+After you’ve selected a [venue](https://make.wordpress.org/sustainability/handbook/sustainable-events/venue/), it’s time to share information with attendees and sponsors.
 
 - Create a ***Traveling to*** page: 
     - Promote train, coach, and carpooling over flights.
