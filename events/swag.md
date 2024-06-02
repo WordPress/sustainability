@@ -12,7 +12,7 @@ Swag is a different story: hardly an essential, swag is mostly a nice-to-have fo
     - Option for “swag”.
     - Option for “bottle/mug”.
     - Option for “t-shirt”.
-- Prioritize sustainable swag items for speakers. Check out the Inspiration section for ideas. 
+- Prioritize sustainable swag items for speakers. Check out the [Inspiration section](https://make.wordpress.org/sustainability/handbook/sustainable-events/inspiration/) for ideas. 
 - When printing swag items locally, consider a timeless design: **only** feature the WordPress logo. This ensures surplus swag could be used in other events. [Find links to WordPress's official designs in the WordCamp Organizer Handbook](https://make.wordpress.org/community/handbook/wordcamp-organizer/planning-details/swag/swag-source-files/).
 
 Plan what to do with surplus swag after the event.
