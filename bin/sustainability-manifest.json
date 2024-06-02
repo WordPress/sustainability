@@ -34,11 +34,88 @@
     "parent": "contribute",
     "order": 2
   },
+  "sustainable_events": {
+    "title": "Sustainable Events",
+    "slug": "sustainable-events-handbook",
+    "markdown_source": "https:\/\/github.com\/wordpress\/sustainability\/blob\/trunk\/SEHB\/welcome.md",
+    "parent": null,
+    "order": 3
+  },
+  "sustainable_events\/location": {
+    "title": "Location",
+    "slug": "location",
+    "markdown_source": "https:\/\/github.com\/wordpress\/sustainability\/blob\/trunk\/SEHB\/location.md",
+    "parent": "sustainable_events",
+    "order": 1
+  },
+    "sustainable_events\/venue": {
+    "title": "Venue",
+    "slug": "venue",
+    "markdown_source": "https:\/\/github.com\/wordpress\/sustainability\/blob\/trunk\/SEHB\/venue.md",
+    "parent": "sustainable_events",
+    "order": 2
+  },
+    "sustainable_events\/traveling": {
+    "title": "Traveling",
+    "slug": "traveling",
+    "markdown_source": "https:\/\/github.com\/wordpress\/sustainability\/blob\/trunk\/SEHB\/traveling.md",
+    "parent": "sustainable_events",
+    "order": 3
+  },
+    "sustainable_events\/sponsors": {
+    "title": "Sponsors/Fundraising",
+    "slug": "sponsors",
+    "markdown_source": "https:\/\/github.com\/wordpress\/sustainability\/blob\/trunk\/SEHB\/sponsors.md",
+    "parent": "sustainable_events",
+    "order": 4
+  },
+    "sustainable_events\/catering": {
+    "title": "Catering/Food and beverages",
+    "slug": "catering",
+    "markdown_source": "https:\/\/github.com\/wordpress\/sustainability\/blob\/trunk\/SEHB\/catering.md",
+    "parent": "sustainable_events",
+    "order": 5
+  },
+    "sustainable_events\/swag": {
+    "title": "Swag and supplies",
+    "slug": "swag",
+    "markdown_source": "https:\/\/github.com\/wordpress\/sustainability\/blob\/trunk\/SEHB\/swag.md",
+    "parent": "sustainable_events",
+    "order": 6
+  },
+    "sustainable_events\/content": {
+    "title": "Content",
+    "slug": "content",
+    "markdown_source": "https:\/\/github.com\/wordpress\/sustainability\/blob\/trunk\/SEHB\/content.md",
+    "parent": "sustainable_events",
+    "order": 7
+  },
+  "sustainable_events\/marketing": {
+    "title": "Marketing and communication",
+    "slug": "marketing",
+    "markdown_source": "https:\/\/github.com\/wordpress\/sustainability\/blob\/trunk\/SEHB\/marketing.md",
+    "parent": "sustainable_events",
+    "order": 8
+  },
+    "sustainable_events\/inspiration": {
+    "title": "Inspiration",
+    "slug": "inspiration",
+    "markdown_source": "https:\/\/github.com\/wordpress\/sustainability\/blob\/trunk\/SEHB\/inspiration.md",
+    "parent": "sustainable_events",
+    "order": 9
+  },
+    "sustainable_events\/attendees": {
+    "title": "Tips for Attendees",
+    "slug": "attendees",
+    "markdown_source": "https:\/\/github.com\/wordpress\/sustainability\/blob\/trunk\/SEHB\/attendees.md",
+    "parent": "sustainable_events",
+    "order": 10
+  },
     "achievements": {
     "title": "Team achievements",
     "slug": "achievements",
     "markdown_source": "https:\/\/github.com\/wordpress\/sustainability\/blob\/trunk\/achievements.md",
     "parent": null,
-    "order": 3
+    "order": 4
   }
 }
