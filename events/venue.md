@@ -1,6 +1,7 @@
 # Venue
 
 On top of [cost, capacity, internet connection](https://make.wordpress.org/community/handbook/wordcamp-organizer/first-steps/venue-and-date/#choosing-a-venue), and [accessibility](https://make.wordpress.org/community/handbook/wordcamp-organizer/first-steps/venue-accessibility-checklist/), you should consider the sustainability status of the event’s chosen venue. 
+
 Here are some criteria to support your research:
 
 Prioritize venues with sustainability measures already in place, like:
@@ -9,7 +10,7 @@ Prioritize venues with sustainability measures already in place, like:
 - Energy efficiency.
 - Recycling facilities.
 - Sustainable certifications.
-- Active involvement in sustainable causes, like those mentioned in the Inspiration Section.
+- Active involvement in sustainable causes, like those mentioned in the [Inspiration](https://make.wordpress.org/sustainability/handbook/sustainable-events/inspiration/) Section.
 
 Other things that give a venue extra points: 
 
