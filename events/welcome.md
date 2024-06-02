@@ -1,6 +1,6 @@
 # Sustainable Events Handbook
 
-The journey toward a more sustainable world is long, but every action is a step forward. 
+tl;dr: The journey toward a more sustainable world is long, but every action is a step forward. 
 
 Each WordCamp event, whether in person or online, has an environmental impact—that's a given. However, opting for a sustainable alternative can make a positive impact.
 
