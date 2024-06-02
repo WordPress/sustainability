@@ -34,81 +34,81 @@
     "parent": "contribute",
     "order": 2
   },
-  "sustainable_events": {
+  "sustainable-events": {
     "title": "Sustainable Events",
     "slug": "sustainable-events",
     "markdown_source": "https:\/\/github.com\/wordpress\/sustainability\/blob\/trunk\/events\/welcome.md",
     "parent": null,
     "order": 3
   },
-  "sustainable_events\/location": {
+  "sustainable-events\/location": {
     "title": "Location",
     "slug": "location",
     "markdown_source": "https:\/\/github.com\/wordpress\/sustainability\/blob\/trunk\/events\/location.md",
-    "parent": "sustainable_events",
+    "parent": "sustainable-events",
     "order": 1
   },
-    "sustainable_events\/venue": {
+    "sustainable-events\/venue": {
     "title": "Venue",
     "slug": "venue",
     "markdown_source": "https:\/\/github.com\/wordpress\/sustainability\/blob\/trunk\/events\/venue.md",
-    "parent": "sustainable_events",
+    "parent": "sustainable-events",
     "order": 2
   },
-    "sustainable_events\/traveling": {
+    "sustainable-events\/traveling": {
     "title": "Traveling",
     "slug": "traveling",
     "markdown_source": "https:\/\/github.com\/wordpress\/sustainability\/blob\/trunk\/events\/traveling.md",
-    "parent": "sustainable_events",
+    "parent": "sustainable-events",
     "order": 3
   },
-    "sustainable_events\/sponsors": {
+    "sustainable-events\/sponsors": {
     "title": "Sponsors/Fundraising",
     "slug": "sponsors",
     "markdown_source": "https:\/\/github.com\/wordpress\/sustainability\/blob\/trunk\/events\/sponsors.md",
-    "parent": "sustainable_events",
+    "parent": "sustainable-events",
     "order": 4
   },
-    "sustainable_events\/catering": {
+    "sustainable-events\/catering": {
     "title": "Catering/Food and beverages",
     "slug": "catering",
     "markdown_source": "https:\/\/github.com\/wordpress\/sustainability\/blob\/trunk\/events\/catering.md",
-    "parent": "sustainable_events",
+    "parent": "sustainable-events",
     "order": 5
   },
-    "sustainable_events\/swag": {
+    "sustainable-events\/swag": {
     "title": "Swag and supplies",
     "slug": "swag",
     "markdown_source": "https:\/\/github.com\/wordpress\/sustainability\/blob\/trunk\/events\/swag.md",
-    "parent": "sustainable_events",
+    "parent": "sustainable-events",
     "order": 6
   },
-    "sustainable_events\/content": {
+    "sustainable-events\/content": {
     "title": "Content",
     "slug": "content",
     "markdown_source": "https:\/\/github.com\/wordpress\/sustainability\/blob\/trunk\/events\/content.md",
-    "parent": "sustainable_events",
+    "parent": "sustainable-events",
     "order": 7
   },
-  "sustainable_events\/marketing": {
+  "sustainable-events\/marketing": {
     "title": "Marketing and communication",
     "slug": "marketing",
     "markdown_source": "https:\/\/github.com\/wordpress\/sustainability\/blob\/trunk\/events\/marketing.md",
-    "parent": "sustainable_events",
+    "parent": "sustainable-events",
     "order": 8
   },
-    "sustainable_events\/inspiration": {
+    "sustainable-events\/inspiration": {
     "title": "Inspiration",
     "slug": "inspiration",
     "markdown_source": "https:\/\/github.com\/wordpress\/sustainability\/blob\/trunk\/events\/inspiration.md",
-    "parent": "sustainable_events",
+    "parent": "sustainable-events",
     "order": 9
   },
-    "sustainable_events\/attendees": {
+    "sustainable-events\/attendees": {
     "title": "Tips for Attendees",
     "slug": "attendees",
     "markdown_source": "https:\/\/github.com\/wordpress\/sustainability\/blob\/trunk\/events\/attendees.md",
-    "parent": "sustainable_events",
+    "parent": "sustainable-events",
     "order": 10
   },
     "achievements": {
