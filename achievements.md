@@ -1,4 +1,4 @@
-# Team Achivements
+# Team Achievements
 
 ## Achievements in sustainability to date
 
