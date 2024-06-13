@@ -2,6 +2,8 @@
 
 After you’ve selected a [venue](https://make.wordpress.org/sustainability/handbook/sustainable-events/venue/), it’s time to share information with attendees and sponsors.
 
+We can consider several scales of WordCamp events, and each has distinct location selection criteria.
+
 - Create a ***Traveling to*** page: 
     - Promote train, coach, and carpooling over flights.
     - Provide links to relevant train and coach services sites. 
