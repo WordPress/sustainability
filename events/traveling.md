@@ -2,7 +2,11 @@
 
 After you’ve selected a [venue](https://make.wordpress.org/sustainability/handbook/sustainable-events/venue/), it’s time to share information with attendees and sponsors.
 
-We can consider several scales of WordCamp events, and each has distinct location selection criteria.
+We can consider several scales of WordCamp events, and each has distinct location selection criteria, and needs for information.
+
+**City/ Local Events** - travel is likely to be less than one day, and public transport in many locations will be a viable options for attendees.
+**National Events** - travel can include public transport, but road maybe a necessary option for some attendees and travel time will be a factor.
+**Regional Events** (eg WCEU, WCAsia) - Travel will incliude distances in exces of several hundred km, and in many cases flights will be necessary, or much more convenient. Travel information and advice will need to acknowledge flights.
 
 - Create a ***Traveling to*** page: 
     - Promote train, coach, and carpooling over flights.
