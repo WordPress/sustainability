@@ -33,7 +33,7 @@ Thank you for your time. Hope to see you soon. Bye.
 
 </details>
 
-## Ready to join the Sustainibility Team?
+## Ready to join the Sustainability Team?
 
 Right know we are working on a better guidelines and onboarding documentation for team members. As soon as it is ready you will find it linked here. 
 

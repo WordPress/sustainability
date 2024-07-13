@@ -2,7 +2,7 @@
 
 ## How to get your WordPress Sustainability Team Badge
 
-### Sustainability Team Badge assigment criteria
+### Sustainability Team Badge assignment criteria
 
 The WordPress Sustainability Team offers two different team badges, which the following obtention criteria: 
 
@@ -27,4 +27,4 @@ The WordPress Sustainability Team offers two different team badges, which the fo
 
 To obtain your Sustainability Team Badge you will need to contact one of the WP Sustainability Team Reps: [Nora Ferreirós](https://profiles.wordpress.org/noradriana/), [Nahuai Badiola](https://profiles.wordpress.org/nahuai/), [Csaba](https://profiles.wordpress.org/littlebigthing/) or [Thijs Buijs](https://profiles.wordpress.org/yellowlime/). Badges are not distributed automatically yet.
 
-You can find the formal decision post for this Team Badge assigment in [the Sustainability Team blog](https://make.wordpress.org/sustainability/2024/03/01/wordpress-sustainability-team-badges-formal-decision/).
+You can find the formal decision post for this Team Badge assignment in [the Sustainability Team blog](https://make.wordpress.org/sustainability/2024/03/01/wordpress-sustainability-team-badges-formal-decision/).

@@ -1,6 +1,6 @@
 # About the team 
 
-The WordPress Sustainability Team works towards embeding sustainable practices into WordPress to ensure the longevity of the project. 
+The WordPress Sustainability Team works towards embedding sustainable practices into WordPress to ensure the longevity of the project. 
 
 To do so, we focus our efforts on the 3 pillars of sustainability: 
 
