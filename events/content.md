@@ -2,8 +2,7 @@
 
 The what, who, and how to make the content of your event more sustainable. 
 
-- When publishing your **Call for Speakers**, motivate participants to consider sustainability as a topic. 
-Favor speakers who relate to sustainability.
+- When publishing your **Call for Speakers**, motivate participants to consider sustainability as a topic. Favor speakers who relate to sustainability.
 - Rethink the format: encourage speakers to present without a slide deck.
 - Spread the word: share information about how you made the event more sustainable. 
     - Invite attendees and speakers to share their ideas for improvements. 
