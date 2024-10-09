@@ -6,8 +6,8 @@ The what, who, and how to make the content of your event more sustainable.
 - Rethink the format: encourage speakers to present without a slide deck.
 - Spread the word: share information about how you made the event more sustainable. 
     - Invite attendees and speakers to share their ideas for improvements. 
-    - Invite everyone to volunteer at the Sustainability Team table on Contributor Day, and contribute to relevant projects or the WordPress [Sustainability Team](https://make.wordpress.org/sustainability/). 
-- Organize a [Next Generation](https://make.wordpress.org/community/handbook/community-deputy/other-event-formats/nextgen-wordpress-event/) event focused on sustainability. A creative approach or format is great for raising awareness.
+    - Invite everyone to volunteer at the Sustainability Team table on Community Day, and contribute to relevant projects or the WordPress [Sustainability Team](https://make.wordpress.org/sustainability/). 
+- Organize a [WordPress Event](https://make.wordpress.org/community/handbook/community-deputy/other-event-formats/nextgen-wordpress-event/) focused on sustainability. A creative approach or format is great for raising awareness.
 
 Meetups and other small WordCamps events are intended to foster local communities. Still, the speakers might not be local, and the talks could interest a wider crowd. 
 
