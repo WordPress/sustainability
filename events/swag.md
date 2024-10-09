@@ -18,5 +18,5 @@ Swag is a different story: hardly an essential, swag is mostly a nice-to-have fo
 Plan what to do with surplus swag after the event.
 
 - Set up a dropoff point for lanyards. 
-- When possible, send any usable swag back to WordCamp Central.
+- When possible, get in contact with othe WordPress Events organizers to share any usable swag.
 - Coordinate a donation of surplus swags that can’t be used again to a local charity. 
