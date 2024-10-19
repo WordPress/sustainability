@@ -1,4 +1,4 @@
-# WordPress Sustainability Handbook
+## WordPress Sustainability Handbook
 
 This is the repository for the [WordPress Sustainability Handbook](https://make.wordpress.org/sustainability/handbook/).
 
