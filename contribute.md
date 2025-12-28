@@ -65,11 +65,11 @@ Once you have your 3 accounts, follow these steps:
 
 ## How to contribute to this Sustainability handbook
 
-Our handbook is built using GitHub in [this repository](https://github.com/WordPress/sustainability) and is always growing. 
+Our handbook is built on GitHub in [this repository](https://github.com/WordPress/sustainability) and is continuously growing.
 
-You can contribute to this handbook by creating issues. You can also submit pull requests as you would normally do on GitHub.
+You can contribute to this handbook by creating issues. You can also submit pull requests, as you would normally do on GitHub.
 
-If you’re not used to working with GitHub and you have access to our GitHub repo, you can also edit, or even add, pages there. Please refer to the [readme file](https://github.com/WordPress/sustainability/blob/trunk/README.md) for more information.
+If you’re not used to working with GitHub and have access to our repository, you can also edit or add pages directly there. Please refer to the [README file](https://github.com/WordPress/sustainability/blob/trunk/README.md) for more information.
 
 
 ## Have fun
