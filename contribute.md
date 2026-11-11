@@ -31,7 +31,7 @@ The most important account you’ll use is a WordPress.org account. This account
 
 - Do you already have a WordPress.org account? Then [login here](https://login.wordpress.org) and you are ready for the next step.
 - Don’t have a WordPress.org account yet? Then you can [create one](https://login.wordpress.org/register) by following one of these instructions (kindly created by other WordPress Teams and volunteers, thank you!):
-  - [Video instructions to set up a WordPress.org account](https://learn.wordpress.org/tutorial/set-up-a-wordpress-org-account/)
+  - [Video instructions to set up a WordPress.org account](https://learn.wordpress.org/lesson/creating-a-wordpress-org-account/)
   - [Step by step written instructions](https://github.com/WordPress/contributor-day-handbook/blob/master/*Start%20Here%20-%20General%20Guides/How%20to%20get%20a%20WordPress.org%20account.md)
  
 After creating your account you will receive a “@chat.wordpress.org” username which means you do not have to share your personal email address with others in Slack. You can instead use the handle you choose.

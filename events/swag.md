@@ -1,6 +1,6 @@
 # Swag and supplies
 
-[WordCamp Central](https://central.wordcamp.org) will supply official lanyards when possible, and there are [solutions for office supplies](https://make.wordpress.org/community/handbook/wordcamp-organizer/planning-details/supplies/) you may need for your event. Otherwise, you can [print lanyards, buttons, and stickers locally](https://make.wordpress.org/community/handbook/wordcamp-organizer/planning-details/swag/swag-source-files/).
+[WordCamp Central](https://central.wordcamp.org) has paused shipping lanyards and other swag to events, so organizers [print lanyards, buttons, and stickers locally](https://make.wordpress.org/community/handbook/wordcamp-organizer/planning-details/swag/swag-source-files/) (see [Swag](https://make.wordpress.org/community/handbook/wordcamp-organizer/planning-details/swag/) in the WordCamp Organizer Handbook). There are also [solutions for office supplies](https://make.wordpress.org/community/handbook/wordcamp-organizer/planning-details/supplies/) you may need for your event.
 
 Swag is a different story: hardly an essential, swag is mostly a nice-to-have for attendees and speakers. Here’s how you can make it more sustainable:  
 
